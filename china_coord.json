@@ -1,10 +1,10 @@
 {
-	"aba": {
+	"abazangzuqiangzu": {
 		"coord": [
 			31.9058,
 			102.2286
 		],
-		"hanzi": "阿坝"
+		"hanzi": "阿坝藏族羌族自治州"
 	},
 	"akesudiqu": {
 		"coord": [
@@ -132,12 +132,12 @@
 		],
 		"hanzi": "巴彦淖尔市"
 	},
-	"bayinguoleng": {
+	"bayinguolengmengguzizhizhou": {
 		"coord": [
 			41.7714,
 			86.1217
 		],
-		"hanzi": "巴音郭楞"
+		"hanzi": "巴音郭楞蒙古自治州"
 	},
 	"bazhong": {
 		"coord": [
@@ -188,12 +188,12 @@
 		],
 		"hanzi": "滨州市"
 	},
-	"boertala": {
+	"boertalamenggu": {
 		"coord": [
 			44.9137,
 			82.0524
 		],
-		"hanzi": "博尔塔拉"
+		"hanzi": "博尔塔拉蒙古自治州"
 	},
 	"bozhou": {
 		"coord": [
@@ -208,13 +208,6 @@
 			116.8638
 		],
 		"hanzi": "沧州市"
-	},
-	"changbaishan": {
-		"coord": [
-			42.456,
-			128.139
-		],
-		"hanzi": "长白山"
 	},
 	"changchun": {
 		"coord": [
@@ -237,12 +230,12 @@
 		],
 		"hanzi": "昌都市"
 	},
-	"changji": {
+	"changjihuizu": {
 		"coord": [
 			44.0071,
 			87.296
 		],
-		"hanzi": "昌吉"
+		"hanzi": "昌吉回族自治州"
 	},
 	"changsha": {
 		"coord": [
@@ -328,12 +321,12 @@
 		],
 		"hanzi": "崇左市"
 	},
-	"chuxiong": {
+	"chuxiongyizu": {
 		"coord": [
 			25.0664,
 			101.5294
 		],
-		"hanzi": "楚雄"
+		"hanzi": "楚雄彝族自治州"
 	},
 	"chuzhou": {
 		"coord": [
@@ -342,19 +335,19 @@
 		],
 		"hanzi": "滁州市"
 	},
-	"dali": {
-		"coord": [
-			25.5969,
-			100.2237
-		],
-		"hanzi": "大理"
-	},
 	"dalian": {
 		"coord": [
 			38.9487,
 			121.5935
 		],
 		"hanzi": "大连市"
+	},
+	"dalibaizu": {
+		"coord": [
+			25.5969,
+			100.2237
+		],
+		"hanzi": "大理白族自治州"
 	},
 	"dandong": {
 		"coord": [
@@ -391,12 +384,12 @@
 		],
 		"hanzi": "达州市"
 	},
-	"dehong": {
+	"dehongdaizujingpozu": {
 		"coord": [
 			24.4412,
 			98.5894
 		],
-		"hanzi": "德宏"
+		"hanzi": "德宏傣族景颇族自治州"
 	},
 	"deyang": {
 		"coord": [
@@ -419,12 +412,12 @@
 		],
 		"hanzi": "定西市"
 	},
-	"diqing": {
+	"diqingzangzu": {
 		"coord": [
 			27.831,
 			99.7137
 		],
-		"hanzi": "迪庆"
+		"hanzi": "迪庆藏族自治州"
 	},
 	"dongguan": {
 		"coord": [
@@ -454,12 +447,12 @@
 		],
 		"hanzi": "鄂尔多斯市"
 	},
-	"en": {
+	"enshitujiazumiaozu": {
 		"coord": [
 			30.2859,
 			109.4919
 		],
-		"hanzi": "恩施"
+		"hanzi": "恩施土家族苗族自治州"
 	},
 	"ezhou": {
 		"coord": [
@@ -517,12 +510,12 @@
 		],
 		"hanzi": "福州市"
 	},
-	"gannan": {
+	"gannanzangzu": {
 		"coord": [
 			34.9922,
 			102.9174
 		],
-		"hanzi": "甘南"
+		"hanzi": "甘南藏族自治州"
 	},
 	"ganzhou": {
 		"coord": [
@@ -531,12 +524,19 @@
 		],
 		"hanzi": "赣州市"
 	},
-	"ganzi": {
+	"ganzizangzu": {
 		"coord": [
 			30.0551,
 			101.9692
 		],
-		"hanzi": "甘孜"
+		"hanzi": "甘孜藏族自治州"
+	},
+	"gaoxiong": {
+		"coord": [
+			22.6273,
+			120.3014
+		],
+		"hanzi": "高雄市"
 	},
 	"gaoyou": {
 		"coord": [
@@ -594,12 +594,12 @@
 		],
 		"hanzi": "贵阳市"
 	},
-	"guoluo": {
+	"guoluozangzu": {
 		"coord": [
 			34.4805,
 			100.2237
 		],
-		"hanzi": "果洛"
+		"hanzi": "果洛藏族自治州"
 	},
 	"guyuan": {
 		"coord": [
@@ -615,12 +615,12 @@
 		],
 		"hanzi": "哈尔滨市"
 	},
-	"haibei": {
+	"haibeizangzu": {
 		"coord": [
 			36.9607,
 			100.8798
 		],
-		"hanzi": "海北"
+		"hanzi": "海北藏族自治州"
 	},
 	"haidong": {
 		"coord": [
@@ -636,19 +636,19 @@
 		],
 		"hanzi": "海口市"
 	},
-	"hainan": {
+	"hainanzangzu": {
 		"coord": [
 			36.2844,
 			100.6241
 		],
-		"hanzi": "海南"
+		"hanzi": "海南藏族自治州"
 	},
-	"haixi": {
+	"haiximengguzuzangzu": {
 		"coord": [
 			37.3738,
 			97.3426
 		],
-		"hanzi": "海西"
+		"hanzi": "海西蒙古族藏族自治州"
 	},
 	"hami": {
 		"coord": [
@@ -769,12 +769,19 @@
 		],
 		"hanzi": "呼和浩特市"
 	},
-	"honghe": {
+	"honghehanizuyizu": {
 		"coord": [
 			23.3677,
 			103.3841
 		],
-		"hanzi": "红河"
+		"hanzi": "红河哈尼族彝族自治州"
+	},
+	"hongkong": {
+		"coord": [
+			22.2936,
+			114.1861
+		],
+		"hanzi": "香港"
 	},
 	"huaian": {
 		"coord": [
@@ -811,12 +818,12 @@
 		],
 		"hanzi": "黄冈市"
 	},
-	"huangnan": {
+	"huangnanzangzu": {
 		"coord": [
 			35.5229,
 			102.0076
 		],
-		"hanzi": "黄南"
+		"hanzi": "黄南藏族自治州"
 	},
 	"huangshan": {
 		"coord": [
@@ -930,6 +937,13 @@
 		],
 		"hanzi": "吉林市"
 	},
+	"jilinshengchangbaishanbaohukaifaqu": {
+		"coord": [
+			42.456,
+			128.139
+		],
+		"hanzi": "吉林省长白山保护开发区"
+	},
 	"jinan": {
 		"coord": [
 			36.6828,
@@ -1035,6 +1049,13 @@
 		],
 		"hanzi": "开封市"
 	},
+	"kaohsiung": {
+		"coord": [
+			22.6273,
+			120.3014
+		],
+		"hanzi": "高雄市"
+	},
 	"karamay": {
 		"coord": [
 			45.5943,
@@ -1056,12 +1077,12 @@
 		],
 		"hanzi": "克拉玛依市"
 	},
-	"kezileisu": {
+	"kezileisukeerkezi": {
 		"coord": [
 			39.7503,
 			76.1376
 		],
-		"hanzi": "克孜勒苏"
+		"hanzi": "克孜勒苏柯尔克孜自治州"
 	},
 	"kunming": {
 		"coord": [
@@ -1119,12 +1140,12 @@
 		],
 		"hanzi": "乐山市"
 	},
-	"liangshan": {
+	"liangshanyizu": {
 		"coord": [
 			27.8924,
 			102.2596
 		],
-		"hanzi": "凉山"
+		"hanzi": "凉山彝族自治州"
 	},
 	"lianyungang": {
 		"coord": [
@@ -1175,12 +1196,12 @@
 		],
 		"hanzi": "临汾市"
 	},
-	"linxia": {
+	"linxiahuizu": {
 		"coord": [
 			35.5985,
 			103.2152
 		],
-		"hanzi": "临夏"
+		"hanzi": "临夏回族自治州"
 	},
 	"linyi": {
 		"coord": [
@@ -1385,6 +1406,13 @@
 		],
 		"hanzi": "内江市"
 	},
+	"newtaipei": {
+		"coord": [
+			25.0287,
+			121.577
+		],
+		"hanzi": "新北市"
+	},
 	"ningbo": {
 		"coord": [
 			29.8853,
@@ -1399,12 +1427,12 @@
 		],
 		"hanzi": "宁德市"
 	},
-	"nujiang": {
+	"nujianglisuzu": {
 		"coord": [
 			25.8607,
 			98.8599
 		],
-		"hanzi": "怒江"
+		"hanzi": "怒江傈僳族自治州"
 	},
 	"panjin": {
 		"coord": [
@@ -1469,12 +1497,12 @@
 		],
 		"hanzi": "濮阳市"
 	},
-	"qiandongnan": {
+	"qiandongnanmiaozudongzu": {
 		"coord": [
 			26.584,
 			107.9854
 		],
-		"hanzi": "黔东南"
+		"hanzi": "黔东南苗族侗族自治州"
 	},
 	"qianjiang": {
 		"coord": [
@@ -1483,19 +1511,19 @@
 		],
 		"hanzi": "潜江市"
 	},
-	"qiannan": {
+	"qiannanbuyizumiaozu": {
 		"coord": [
 			26.2645,
 			107.5232
 		],
-		"hanzi": "黔南"
+		"hanzi": "黔南布依族苗族自治州"
 	},
-	"qianxinan": {
+	"qianxinanbuyizumiaozu": {
 		"coord": [
 			25.0951,
 			104.9006
 		],
-		"hanzi": "黔西南"
+		"hanzi": "黔西南布依族苗族自治州"
 	},
 	"qingdao": {
 		"coord": [
@@ -1800,8 +1828,29 @@
 	},
 	"taibei": {
 		"coord": [
-			25.063,
-			121.5201
+			25.033,
+			121.5654
+		],
+		"hanzi": "台北市"
+	},
+	"taichung": {
+		"coord": [
+			29.7087,
+			120.2469
+		],
+		"hanzi": "台中市"
+	},
+	"tainan": {
+		"coord": [
+			22.9997,
+			120.227
+		],
+		"hanzi": "台南市"
+	},
+	"taipei": {
+		"coord": [
+			25.033,
+			121.5654
 		],
 		"hanzi": "台北市"
 	},
@@ -1811,6 +1860,13 @@
 			112.5509
 		],
 		"hanzi": "太原市"
+	},
+	"taizhong": {
+		"coord": [
+			29.7087,
+			120.2469
+		],
+		"hanzi": "台中市"
 	},
 	"taizhou": {
 		"coord": [
@@ -1825,6 +1881,13 @@
 			118.1835
 		],
 		"hanzi": "唐山市"
+	},
+	"taoyuan": {
+		"coord": [
+			24.9936,
+			121.301
+		],
+		"hanzi": "桃园市"
 	},
 	"tianjin": {
 		"coord": [
@@ -1924,12 +1987,12 @@
 		],
 		"hanzi": "渭南市"
 	},
-	"wenshan": {
+	"wenshanzhuangzumiaozu": {
 		"coord": [
 			23.3741,
 			104.2463
 		],
-		"hanzi": "文山"
+		"hanzi": "文山壮族苗族自治州"
 	},
 	"wenzhou": {
 		"coord": [
@@ -2036,12 +2099,12 @@
 		],
 		"hanzi": "湘潭市"
 	},
-	"xiangxi": {
+	"xiangxitujiazumiaozu": {
 		"coord": [
 			28.318,
 			109.7457
 		],
-		"hanzi": "湘西"
+		"hanzi": "湘西土家族苗族自治州"
 	},
 	"xiangyang": {
 		"coord": [
@@ -2084,6 +2147,13 @@
 			116.0273
 		],
 		"hanzi": "锡林郭勒盟"
+	},
+	"xinbei": {
+		"coord": [
+			25.0287,
+			121.577
+		],
+		"hanzi": "新北市"
 	},
 	"xinganmeng": {
 		"coord": [
@@ -2134,12 +2204,12 @@
 		],
 		"hanzi": "忻州市"
 	},
-	"xishuangbanna": {
+	"xishuangbannadaizu": {
 		"coord": [
 			22.0094,
 			100.803
 		],
-		"hanzi": "西双版纳"
+		"hanzi": "西双版纳傣族自治州"
 	},
 	"xuancheng": {
 		"coord": [
@@ -2176,12 +2246,12 @@
 		],
 		"hanzi": "延安市"
 	},
-	"yanbian": {
+	"yanbianchaoxianzu": {
 		"coord": [
 			42.8964,
 			129.4859
 		],
-		"hanzi": "延边"
+		"hanzi": "延边朝鲜族自治州"
 	},
 	"yancheng": {
 		"coord": [
@@ -2197,12 +2267,12 @@
 		],
 		"hanzi": "阳江市"
 	},
-	"yangling": {
+	"yanglingshifanqu": {
 		"coord": [
 			34.2696,
 			108.1027
 		],
-		"hanzi": "杨凌"
+		"hanzi": "杨凌示范区"
 	},
 	"yangquan": {
 		"coord": [
@@ -2246,12 +2316,12 @@
 		],
 		"hanzi": "宜春市"
 	},
-	"yili": {
+	"yilihasake": {
 		"coord": [
 			43.9222,
 			81.2979
 		],
-		"hanzi": "伊犁"
+		"hanzi": "伊犁哈萨克自治州"
 	},
 	"yinchuan": {
 		"coord": [
@@ -2323,12 +2393,12 @@
 		],
 		"hanzi": "云浮市"
 	},
-	"yushu": {
+	"yushuzangzu": {
 		"coord": [
 			33.0062,
 			97.0133
 		],
-		"hanzi": "玉树"
+		"hanzi": "玉树藏族自治州"
 	},
 	"yuxi": {
 		"coord": [

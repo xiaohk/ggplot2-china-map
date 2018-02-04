@@ -1,0 +1,5 @@
+parse_json.py
+*.ipynb_checkpoints
+*.Rhistory
+*.rmd
+*.swp

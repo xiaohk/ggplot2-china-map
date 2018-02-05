@@ -41,6 +41,8 @@ plot1 = map + geom_point(data = city_df, aes(x=long, y=lat, size=count),
                     legend.title = element_text(size=18))
 ggsave("plot1.svg", plot = plot1, device = "svg",
         scale = 1, width = 9, height = 9, units = "in")
+ggsave("plot1.png", plot = plot1, device = "png",
+        scale = 1, width = 9, height = 9, units = "in", dpi = 300)
 
 # Plot without background and legends, etc.
 plot2 = ggplot(china.df, aes(x=long, y=lat, group=group)) + 

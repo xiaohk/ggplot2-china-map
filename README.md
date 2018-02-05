@@ -6,7 +6,7 @@ The plot process is fairly straightforward. We can load the shapefile (in `china
 
 The process is done in `plot_china.r`.
 
-[<img src="./plot1.svg" width="400">](./plot1.svg)[<img src="./plot2.svg" "width=400">](./plot2.svg)
+[<img src="./plot1.svg" width="400">](./plot1.svg)[<img src="./plot2.svg" width="400">](./plot2.svg)
 
 ## Data Processing
 
